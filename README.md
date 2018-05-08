@@ -20,7 +20,7 @@ The project was divided into three major subsystems with two additional sections
 * SD card
 
 ## Finished product
-![alt text](https://github.com/BW0ng/FPGA-NES/raw/master/images/finished_product.jpg)
+![alt text](https://github.com/BW0ng/FPGA-NES/raw/master/finished_product.jpg)
 
 ## [Final Report](https://docs.google.com/document/d/1TDs1-73mg8NffsuH-0fZAMAmAXpyg7S5ryAIiElqUD8/edit?usp=sharing)
 
